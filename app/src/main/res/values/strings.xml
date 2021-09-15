@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculater2</string>
+    <string name="InitMessage">数値を入力</string>
+    <string name="AnswerMessage">答え</string>
+    <!--string name="key_num0">0</string>
+    <string name="key_num1">1</string>
+    <string name="key_num2">2</string>
+    <string name="key_num3">3</string>
+    <string name="key_num4">4</string>
+    <string name="key_num5">5</string>
+    <string name="key_num6">6</string>
+    <string name="key_num7">7</string>
+    <string name="key_num8">8</string>
+    <string name="key_num9">9</string>-->
+    <string name="key_equal">=</string>
+    <string-array name="MathSymbols">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>÷</item>
+    </string-array>
+</resources>
